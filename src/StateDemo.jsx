@@ -1,15 +1,19 @@
 import React, { useState } from "react";
 
 function StateDemo({ className }) {
+  // useState hook
   const [name, setName] = useState("rodgers");
   const [grade, setGrade] = useState(75);
   const [count, setCount] = useState(0);
 
   const handleIncrement = () => {
+    // let newCount = count + 1;
+    // console.log(newCount);
     setCount(count + 1);
   };
 
   const handleClick = () => {
+    // name = 'david';
     
     if (count % 2 === 0) {
       setName("Brenda");

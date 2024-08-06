@@ -1,0 +1,88 @@
+{
+  "myTodos": [
+    {
+      "id": "1",
+      "title": "Complete React Tutorials",
+      "description": "Finish the React project for the client, including all features and testing.",
+      "isComplete": false
+    },
+    {
+      "id": "2",
+      "title": "Grocery Shopping",
+      "description": "Buy groceries for the week including fruits, vegetables, and dairy products.",
+      "isComplete": true
+    },
+    {
+      "id": "3",
+      "title": "Book Doctor Appointment",
+      "description": "Schedule a doctor's appointment for a routine check-up.",
+      "isComplete": false
+    },
+    {
+      "id": "4",
+      "title": "Read 20 Pages of a Book",
+      "description": "Read 20 pages of 'The Great Gatsby' before the end of the day.",
+      "isComplete": false
+    },
+    {
+      "id": "5",
+      "title": "Finish Homework",
+      "description": "Complete the homework assignments for mathematics and science.",
+      "isComplete": true
+    },
+    {
+      "id": "6",
+      "title": "Prepare Presentation",
+      "description": "Create slides and prepare the speech for the upcoming team meeting.",
+      "isComplete": false
+    },
+    {
+      "id": "8",
+      "title": "Send Email to Boss",
+      "description": "Send an update email to the boss regarding the project progress.",
+      "isComplete": false
+    },
+    {
+      "id": "9",
+      "title": "Plan Weekend Trip",
+      "description": "Plan the itinerary and book accommodation for the weekend trip to the beach.",
+      "isComplete": false
+    },
+    {
+      "id": "10",
+      "title": "Exercise for 30 Minutes",
+      "description": "Complete a 30-minute workout session at the gym.",
+      "isComplete": true
+    },
+    {
+      "id": "11",
+      "title": "Update Resume",
+      "description": "Revise and update the resume with recent work experience and skills.",
+      "isComplete": false
+    },
+    {
+      "id": "12",
+      "title": "Fix Broken Faucet",
+      "description": "Repair the leaking faucet in the kitchen sink.",
+      "isComplete": true
+    },
+    {
+      "id": "13",
+      "title": "Call Mom",
+      "description": "Give a call to mom to check in and chat about the week.",
+      "isComplete": true
+    },
+    {
+      "id": "14",
+      "title": "Organize Digital Files",
+      "description": "Sort and organize digital files and folders on the computer.",
+      "isComplete": true
+    },
+    {
+      "id": "bc02",
+      "title": "Go to hospital",
+      "description": "Go for check up ",
+      "isComplete": false
+    }
+  ]
+}
